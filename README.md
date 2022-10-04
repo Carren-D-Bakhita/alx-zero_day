@@ -1,1 +1,1 @@
-My first readme
+README updated to activity 6
